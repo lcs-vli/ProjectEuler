@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		543D533123D8B1B6002DB7E2 /* ProjectEuler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectEuler; sourceTree = BUILT_PRODUCTS_DIR; };
 		543D533423D8B1B6002DB7E2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		543D533B23D8B1F8002DB7E2 /* projecteuler.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = projecteuler.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		543D533323D8B1B6002DB7E2 /* ProjectEuler */ = {
 			isa = PBXGroup;
 			children = (
+				543D533B23D8B1F8002DB7E2 /* projecteuler.playground */,
 				543D533423D8B1B6002DB7E2 /* main.swift */,
 			);
 			path = ProjectEuler;
